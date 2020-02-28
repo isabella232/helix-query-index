@@ -28,3 +28,4 @@ Deploying Helix Query Index requires the `wsk` command line client, authenticate
 
 All commits to master that pass the testing will be deployed automatically. All commits to branches that will pass the testing will get commited as `/helix-services/query-index@ci<num>` and tagged with the CI build number.
 
+
